@@ -1,0 +1,54 @@
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1cm;
+    font-weight: bold;
+    margin-top: 2cm;
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    margin-top: 1cm;
+    text-align: left;
+
+    display:inline-block;
+    border:1px solid #c00202;
+    padding:30px;
+    
+}
+
+.pairs {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 0.75cm;
+    text-align: center;
+}
+
+.list-item-one {
+    margin-bottom: 1cm;
+}
+
+
+.list-item-two {
+    margin-bottom: 1cm;
+}
+
+.description {
+    margin-top: 1cm;
+    text-align: center;
+    font-size: 0.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.loading {
+
+    text-align: center;
+    font-size: 2cm;
+    margin-top: 0.5cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.wine {
+    border-radius: 30px;
+    margin-top: 4cm;
+}
